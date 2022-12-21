@@ -1,0 +1,10 @@
+C:\Учебная практика\Неделя 3 Задание 11\prog11form\prog11form\obj\Debug\prog11form.csprojAssemblyReference.cache
+C:\Учебная практика\Неделя 3 Задание 11\prog11form\prog11form\obj\Debug\prog11form.Form1.resources
+C:\Учебная практика\Неделя 3 Задание 11\prog11form\prog11form\obj\Debug\prog11form.Properties.Resources.resources
+C:\Учебная практика\Неделя 3 Задание 11\prog11form\prog11form\obj\Debug\prog11form.csproj.GenerateResource.cache
+C:\Учебная практика\Неделя 3 Задание 11\prog11form\prog11form\obj\Debug\prog11form.csproj.CoreCompileInputs.cache
+C:\Учебная практика\Неделя 3 Задание 11\prog11form\prog11form\bin\Debug\prog11form.exe.config
+C:\Учебная практика\Неделя 3 Задание 11\prog11form\prog11form\bin\Debug\prog11form.exe
+C:\Учебная практика\Неделя 3 Задание 11\prog11form\prog11form\bin\Debug\prog11form.pdb
+C:\Учебная практика\Неделя 3 Задание 11\prog11form\prog11form\obj\Debug\prog11form.exe
+C:\Учебная практика\Неделя 3 Задание 11\prog11form\prog11form\obj\Debug\prog11form.pdb

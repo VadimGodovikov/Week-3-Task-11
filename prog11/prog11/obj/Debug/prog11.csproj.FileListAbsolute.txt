@@ -1,0 +1,7 @@
+C:\Учебная практика\Неделя 3 Задание 11\prog11\prog11\bin\Debug\prog11.exe.config
+C:\Учебная практика\Неделя 3 Задание 11\prog11\prog11\bin\Debug\prog11.exe
+C:\Учебная практика\Неделя 3 Задание 11\prog11\prog11\bin\Debug\prog11.pdb
+C:\Учебная практика\Неделя 3 Задание 11\prog11\prog11\obj\Debug\prog11.csprojAssemblyReference.cache
+C:\Учебная практика\Неделя 3 Задание 11\prog11\prog11\obj\Debug\prog11.csproj.CoreCompileInputs.cache
+C:\Учебная практика\Неделя 3 Задание 11\prog11\prog11\obj\Debug\prog11.exe
+C:\Учебная практика\Неделя 3 Задание 11\prog11\prog11\obj\Debug\prog11.pdb
